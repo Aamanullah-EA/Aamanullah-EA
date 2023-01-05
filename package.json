@@ -1,0 +1,23 @@
+{
+  "name": "aamanullah-ea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamanullah-EA/Aamanullah-EA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aamanullah-EA/Aamanullah-EA/issues"
+  },
+  "homepage": "https://github.com/Aamanullah-EA/Aamanullah-EA#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
