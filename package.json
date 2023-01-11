@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Aamanullah-EA/Aamanullah-EA#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.8.1"
+    "parcel-bundler": "^1.12.5"
   }
 }
